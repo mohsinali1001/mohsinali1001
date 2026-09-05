@@ -4,27 +4,27 @@
 </div>
 
 <!-- ======================= INTRO & PROFILE ======================= -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-top: 20px;">
+<table>
   <tr>
-    <td width="65%" valign="middle" style="padding-right: 20px;">
-      <h1 align="left" style="margin-bottom: 5px;">Hi, I'm Mohsin 👋</h1>
-      <h3 align="left" style="color: #2563eb; margin-top: 0;">Full-Stack Developer · AI/ML Enthusiast</h3>
+    <td width="65%">
+      <h1>Hi, I'm Mohsin 👋</h1>
+      <h3>Full-Stack Developer · AI/ML Enthusiast</h3>
       
-      <p align="left">
+      <p>
         I build modern, scalable web applications and backend systems, with a growing focus on integrating AI into real-world products. 
       </p>
       
-      <p align="left">
+      <p>
         My development experience spans frontend engineering, backend APIs, databases, authentication, and cloud deployment. I also bring hands-on experience as an online trainer, giving me a unique edge in communicating complex technical concepts clearly and mentoring effectively.
       </p>
       
-      <p align="left">
+      <p>
         Currently expanding my work from full-stack development into <strong>Python, FastAPI, Machine Learning, and AI-powered applications.</strong>
       </p>
       
       <br>
       
-      <div align="left">
+      <div>
         <a href="https://github.com/mohsinali1001" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
         </a>
@@ -37,10 +37,9 @@
       </div>
     </td>
     
-    <td width="35%" align="center" valign="middle">
+    <td width="35%" align="center">
       <a href="https://sloniq.com/">
-        <!-- Using a breathing/pulsing inline CSS animation for platforms that support it (like personal sites), while falling back gracefully on GitHub markdown -->
-        <img src="mohsin.png.png" width="280" alt="Mohsin Ali" style="border-radius: 20px; box-shadow: 0px 10px 25px rgba(37, 99, 235, 0.2); animation: pulse 3s infinite;"/>
+        <img src="mohsin.png.png" width="280" alt="Mohsin Ali" />
       </a>
     </td>
   </tr>
@@ -59,7 +58,7 @@
   <h2>🛠️ Tech Stack & Expertise</h2>
 </div>
 
-<table align="center" width="100%" border="0">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
       <h3>💻 Core Development</h3>
