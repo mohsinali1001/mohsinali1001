@@ -49,7 +49,7 @@ Currently expanding my work from full-stack development into
 
 <td width="35%" align="center">
 
-<img src="./assets/mohsin.png" width="280" alt="Mohsin Ali"/>
+<img src="./assets/mohsin.png.png" width="280" alt="Mohsin Ali"/>
 
 </td>
 </tr>
