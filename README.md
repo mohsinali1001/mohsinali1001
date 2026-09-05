@@ -33,7 +33,7 @@
     </td>
     <td width="35%" align="center">
       <a href="https://sloniq.com/">
-        <img src="./mohsin-avatar.svg" width="260" alt="Mohsin Ali"/>
+        <img src="./assets/mohsin-avatar.svg" width="260" alt="Mohsin Ali"/>
       </a>
     </td>
   </tr>
